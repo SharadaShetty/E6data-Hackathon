@@ -114,10 +114,12 @@ javac JasonFileReader ...\taxi-trips-data.json <query1 to query4>
 
 Running the shell file
 
-chmod +x ..../../run.sh
+Go to the source directory
+
+chmod +x run.sh
 
 ./run.sh
 
-
+expected output(refer .pdf file) and time of execution
 
 
